@@ -41,7 +41,3 @@ The notebook follows these key steps:
     ```bash
     jupyter notebook SSL_MNIST_Autoencoder.ipynb
     ```
-
-## Dependencies
-
-You can create a `requirements.txt` file with the following content:
